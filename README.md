@@ -9,11 +9,15 @@ pip3 install mkdocs
 # 主题： https://squidfunk.github.io/mkdocs-material/getting-started/#installation
 pip3 install mkdocs-material
 
+mkdors new alphazz
+
 # 本地调试
 mkdocs serve
 
 # github 一键部署
 mkdocs gh-deploy
+
+# 设置 gh-pages 分支为 github pages 站点
 ```
 
 github mkdocs主题仓库 （mkdocs gh-deploy 一键布署）
