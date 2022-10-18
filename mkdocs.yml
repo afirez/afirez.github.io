@@ -1,0 +1,12 @@
+site_name: alphazz
+copyright: Copyright (c) 2022 alphazz Random Tech
+
+theme:
+  # name: mkdocs
+  name: material
+  
+nav: 
+  - Home: index.md
+  # - alphazz: alphazz.md
+  - Android: Android.md
+  - Python: Python.md
