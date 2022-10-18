@@ -1,5 +1,6 @@
 # alphazz
 
+[alphazz](https://afirez.github.io)
 ## Github 部署 MkDocs
 
 ```bash
